@@ -16,7 +16,7 @@ Jump to the [Roadmap project](https://github.com/aleksandarbasara/tailwindcss-fi
  - Components
 
 ## Feature request
-If you are missing a feature or if you have an idea for additional functionality, please help us to improve by submitting an issue to this GitHub repository.
+If you are missing a feature or if you have an idea for additional functionality, please help me to improve by submitting an issue to this GitHub repository.
 
 Try following our template when opening a new  [feature request](https://github.com/aleksandarbasara/tailwindcss-figma/issues/new?assignees=&labels=&template=feature_request.md&title=).
 
