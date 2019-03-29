@@ -12,7 +12,8 @@ Jump to the [Roadmap project](https://github.com/aleksandarbasara/tailwindcss-fi
  - ~~Colors~~
  - ~~Typography~~
  - Effects
- - Layouts
+ - Layouts (~~1/6~~, 1/5, ~~1/4~~)
+ 
  - Components
 
 ## Feature request
