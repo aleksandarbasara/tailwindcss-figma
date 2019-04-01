@@ -24,3 +24,4 @@ Try following our template when opening a new  [feature request](https://github.
 ## Bug report
 
 If you find a bug feel free to open an issue here using the  [bug report](https://github.com/aleksandarbasara/tailwindcss-figma/issues/new?assignees=&labels=type%3A+bug&template=bug_report.md&title=)  template.
+
